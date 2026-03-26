@@ -1,4 +1,4 @@
-# ojaswa005
+
 ## Hey there 👋
 
 I'm Ojaswa, an AI/ML engineer focused on building real-world systems with LLMs and data.
